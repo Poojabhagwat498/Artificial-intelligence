@@ -3,7 +3,8 @@
 using namespace std;
 
 class Graph {
-    int V;                  // Number of vertices
+    int V;     
+    // Number of vertices
     list<int>* adj;         // Adjacency list
 
 public:
