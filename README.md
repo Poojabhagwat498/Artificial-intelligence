@@ -1,6 +1,6 @@
 # 🤖 AI Practicals Repository
 
-This repository contains a collection of Artificial Intelligence (AI) practical programs implemented as part of academic coursework. It covers fundamental AI concepts, algorithms, and problem-solving techniques using languages like C++ and Python.
+This repository contains a collection of Artificial Intelligence (AI) practical programs implemented as part of academic coursework. It covers fundamental AI concepts, algorithms, and problem-solving techniques using languages like C++ ,C  and Python.
 
 ## 📚 Contents
 
